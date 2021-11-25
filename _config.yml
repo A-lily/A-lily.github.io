@@ -17,12 +17,12 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
+#facebook: "#"
 twitter: "#https://twitter.com/LaFilleDeRouba"
 linkedin: "#https://www.linkedin.com/in/awa-ly-a60a14152/"
 github: "#https://github.com/A-lily"
-medium: "#https://awaly.medium.com/"  
-orcid: "#"
+#researchgate: "#"  
+#orcid: "#"
 
 highlighter: rouge
 markdown: kramdown
