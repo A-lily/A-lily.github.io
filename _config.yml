@@ -3,7 +3,7 @@
 title: Your Name
 description: subtitle | affiliations | motto
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
@@ -21,7 +21,7 @@ facebook: "#"
 twitter: "#"
 linkedin: "#"
 github: "#"
-researchgate: "#"
+researchgate: "#"  
 orcid: "#"
 
 highlighter: rouge
@@ -39,7 +39,7 @@ compress_html:
     envs: [local]
   blanklines: false
   profile: false
-  startings: []
+  startings: []  
 
 #collection
 collections:
