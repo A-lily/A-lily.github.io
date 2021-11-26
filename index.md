@@ -15,5 +15,5 @@ I am a MSc student at the [African Masters of Machine Intelligence](thttps://aim
 
   Deep Learning 
 
- I am now working on my final project in the field of healthcare using Multi-Modal Methods Computer Vision and Natural Language Processing technique like handwriting OCR (optical character recognition) based on medical records. However, there are a lot of challenges in handwriting OCR and more to be done in OCR in general addin the fact that I am working with raw data.
+ I am now working on my final project in the field of healthcare using Multi-Modal Methods Computer Vision and Natural Language Processing technique like handwriting OCR (optical character recognition) based on medical records. However, there are a lot of challenges in handwriting OCR and more to be done in OCR in general adding the fact that I am working with raw data.
 
